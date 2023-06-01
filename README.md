@@ -22,5 +22,5 @@
 
 
 ✔ I’m currently learning *Full stack webdevelopment* & *Android Development*<br>
-✔ I like to sing whenever I like to take a small break.
+✔ I like to sing whenever I like to take a small break.<br>
 ✔ When I feel bored or am in stress,I start reading astrological stuff<br>

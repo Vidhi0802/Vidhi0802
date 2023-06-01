@@ -20,7 +20,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**LITTLE ABOUT MYSELF**
 
-<!-- ✔ I’m currently pursuing BTech in CSE on JUET, Guna <br>
-✔ I’m currently learning *Database System* & *Android Development*<br>
-✔ I’m Working to develop a community of Some leads and Members with many Advanced Technical and non Technical Skills *Open-Source contribution*<br><br>
-✔ Inner Fact : When I feel boring or in stress,I start reading astrological stuff<br> -->
+
+✔ I’m currently learning *Full stack webdevelopment* & *Android Development*<br>
+✔ I like to sing whenever I like to take a small break.
+✔ When I feel bored or am in stress,I start reading astrological stuff<br>
